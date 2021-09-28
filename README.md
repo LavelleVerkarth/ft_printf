@@ -3,7 +3,7 @@
 
 ## Introduction
 This is a simplified version of printf. 
-See more [subject](http://example.com/)
+See more [subject](https://github.com/LavelleVerkarth/ft_printf/blob/main/en.subject.pdf)
 
 ## Build
 
