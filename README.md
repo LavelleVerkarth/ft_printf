@@ -1,7 +1,5 @@
 # ft_printf
-##### This is a project from  "School 21"
-
-## Introduction
+### This is a project from  "School 21"
 This is a simplified version of printf. 
 See more [subject](https://github.com/LavelleVerkarth/ft_printf/blob/main/en.subject.pdf)
 
