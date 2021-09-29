@@ -5,7 +5,7 @@ See more [subject](https://github.com/LavelleVerkarth/ft_printf/blob/main/en.sub
 
 ## Build
 
-- To compile and generate a static C library named libft.a mandatory part
+- To compile and generate a static C library named libftprintf.a mandatory part
 > - make
 - To remove obj:
 > - make clean
